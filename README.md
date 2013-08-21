@@ -13,6 +13,7 @@ LED 5 = PIN 5
 LED 6 = PIN 6  
 LED 7 = PIN 7  
 
+## Screenshot
 
 ![alt text](http://www.unzeen.com/github/IOIO_LED/2013-08-21_23-51-26.png "IOIO LED")
 
