@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IOIO LED</string>
+    <string name="action_about">About</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="hello">#Common Cathode\n
+PIN Ground = Cathode\n
+    </string>
+        
+     <string name="about">Mr.Khwanchai Kaewyos\n\n
+         
+khwanchai@gmail.com\n\n
+
+http://www.unzeen.com\n
+http://www.LookHin.com\n\n
+     </string>
+    
+	<string name="toggle_button_0">PIN 0 = LED 0 (On Board)</string>
+    <string name="toggle_button_1">PIN 1 = LED 1</string>
+    <string name="toggle_button_2">PIN 2 = LED 2</string>
+    <string name="toggle_button_3">PIN 3 = LED 3</string>
+    <string name="toggle_button_4">PIN 4 = LED 4</string>
+    <string name="toggle_button_5">PIN 5 = LED 5</string>
+    <string name="toggle_button_6">PIN 6 = LED 6</string>
+    <string name="toggle_button_7">PIN 7 = LED 7</string>
+   
+</resources>
