@@ -3,6 +3,16 @@ IOIO LED
 
 IOIO LED (Android Application)
 
+## PIN MAP
+LED 0 = PIN 0 (On Board)  
+LED 1 = PIN 1  
+LED 2 = PIN 2  
+LED 3 = PIN 3  
+LED 4 = PIN 4  
+LED 5 = PIN 5  
+LED 6 = PIN 6  
+LED 7 = PIN 7  
+
 
 ![alt text](http://www.unzeen.com/github/IOIO_LED/2013-08-21_23-51-26.png "IOIO LED")
 
