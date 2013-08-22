@@ -17,6 +17,8 @@ LED 7 = PIN 7
 
 ![alt text](http://www.unzeen.com/github/IOIO_LED/2013-08-21_23-51-26.png?1 "IOIO LED")
 
+![alt text](http://www.unzeen.com/github/IOIO_LED/2013-08-22 22.31.05.jpg?1 "IOIO LED")
+
 
 ## About Us
 Name : Khwanchai Kaewyos (LookHin)  
