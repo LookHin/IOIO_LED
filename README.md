@@ -21,6 +21,8 @@ LED 7 = PIN 7
 
 [![IOIO LED](http://img.youtube.com/vi/pjaOd8ZdcsM/0.jpg)](http://www.youtube.com/watch?v=pjaOd8ZdcsM)
 
+![alt text](http://www.unzeen.com/github/IOIO_LED/fritzing-ioio-led.jpg "IOIO LED")
+
 
 ## About Us
 Name : Khwanchai Kaewyos (LookHin)  
