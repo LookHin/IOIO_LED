@@ -1,7 +1,7 @@
 IOIO LED
 ===============
 
-IOIO LED (Android Application)
+IOIO LED (Control the hardware by Android application and IOIO board)
 
 ## PIN MAP
 LED 0 = PIN 0 (On Board)  
